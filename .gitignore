@@ -1,0 +1,2 @@
+# Exclude the original zip file since contents are extracted
+*.zip
